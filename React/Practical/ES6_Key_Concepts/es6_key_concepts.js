@@ -122,3 +122,108 @@ console.log(getInfo(1, 2, 3, 4, 5)); // Yo
 // Default parameters provide default values for function arguments.
 // Spread operator (...) expands arrays or objects into individual elements.
 // Rest operator (...) collects remaining arguments into an array.
+
+
+
+// ES6 Array Methods - map, filter, find, some, every, includes, indexOf, findIndex
+
+const personsArray = [
+    {
+        name: 'Person 01',
+        age: 30, 
+        country: "USA",
+    },
+    {
+        name: 'Person 1',
+        age: 30, 
+        country: "USA",
+    },
+    {
+        name: 'Person 2',
+        age: 40, 
+        country: "RUSSIA",
+    },
+    {
+        name: 'Person 3',
+        age: 50, 
+        country: "INDIA",
+    }
+]
+
+// map: Transforms each element in the array and returns a new array.
+const getAllNames = personsArray.map((person, index) => {
+    console.log(person, index)
+    return `${person.name} age is ${person.age}`
+})
+console.log(getAllNames)
+
+// find: Returns the first element that satisfies the condition.
+let getPersonFromUSA = personsArray.find((person, index) => {
+    console.log(person, index)
+    return person.country === "USA"
+})
+console.log(getPersonFromUSA)
+
+// filter: Returns a new array with all elements that satisfy the condition.
+let getAllPersonsFromUSA = personsArray.filter((person, index) => {
+    console.log(person, index)
+    return person.country === "USA"
+})
+console.log(getAllPersonsFromUSA)
+
+// some: Checks if at least one element satisfies the condition.
+let checkSomePerson = personsArray.some((person, index) => {
+    console.log(person, index)
+    return person.age >= 40
+})
+console.log(checkSomePerson)
+
+// every: Checks if all elements satisfy the condition.
+let checkEveryPerson = personsArray.every((person, index) => {
+    console.log(person, index)
+    return person.age > 30
+})
+console.log(checkEveryPerson)
+
+// includes: Checks if an array contains a specific value.
+const fruitsArray = ["apple", "banana", "orange"]
+console.log(fruitsArray.includes("apple")) // true
+
+// indexOf: Returns the index of the first occurrence of a value in the array.
+console.log(fruitsArray.indexOf("banana")) // 1
+
+console.log("-----------------")
+
+// findIndex: Returns the index of the first element that satisfies the condition.
+let getIndexofPerson = personsArray.findIndex((person, index) => {
+    return person.country == "INDIA"
+})
+console.log(getIndexofPerson) 
+
+
+
+// async await API call example
+let getListOfProductsElement = document.querySelector('.list-of-products')
+ 
+function renderProducts(getProducts){
+    getListOfProductsElement.innerHTML = getProducts.map(
+        (singleProductItem) => `<p>${singleProductItem.title}<p>`
+    ).join(' ')
+}       
+
+async function fetchListOfProducts(){
+    try {
+        const apiResponse = await fetch('https://dummyjson.com/products', {
+            method: 'GET'
+        })
+
+        const result = await apiResponse.json();
+        console.log(result)
+
+        if(result?.products?.length > 0) renderProducts(result?.products)
+    }catch(e){
+        console.log(e)
+    }
+}
+
+fetchListOfProducts()
