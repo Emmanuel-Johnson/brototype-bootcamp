@@ -1,15 +1,12 @@
-
-
 - immutability of state
 - storing and changing values in refs
 - print message when component gets unmounted
 - arrow function syntax
 - synthetic events
 - why shouldn’t hooks be used in conditional statements
-- MemoryRouter 
-- debouncing 
-- StrictMode 
-
+- MemoryRouter
+- debouncing
+- StrictMode
 
 - Synthetic events
 - How to pass data from child to parent
@@ -18,7 +15,6 @@
 - Core principles of Redux
 - Why is reducer a pure function
 - useRef vs forwardRef
-
 
 - Implement counter with start and stop button
 - CSR vs SSR
@@ -29,7 +25,6 @@
 - MemoryRouter
 - BrowserRouter
 - Context API
-
 
 - State vs variables
 - React workout
@@ -43,6 +38,4 @@
 - Pure functions
 - Controlled component
 
-
 - react - Needs to improve in practical
-
