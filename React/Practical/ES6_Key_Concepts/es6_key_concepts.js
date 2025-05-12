@@ -192,7 +192,6 @@ console.log(fruitsArray.includes("apple")) // true
 // indexOf: Returns the index of the first occurrence of a value in the array.
 console.log(fruitsArray.indexOf("banana")) // 1
 
-console.log("-----------------")
 
 // findIndex: Returns the index of the first element that satisfies the condition.
 let getIndexofPerson = personsArray.findIndex((person, index) => {
@@ -201,9 +200,10 @@ let getIndexofPerson = personsArray.findIndex((person, index) => {
 console.log(getIndexofPerson) 
 
 
+console.log("-----------------")
 
 // async await API call example
-let getListOfProductsElement = document.querySelector('.list-of-products')
+/* let getListOfProductsElement = document.querySelector('.list-of-products')
  
 function renderProducts(getProducts){
     getListOfProductsElement.innerHTML = getProducts.map(
@@ -226,4 +226,4 @@ async function fetchListOfProducts(){
     }
 }
 
-fetchListOfProducts()
+fetchListOfProducts() */
