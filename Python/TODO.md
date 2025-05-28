@@ -1,7 +1,9 @@
-- cpython, python vm
-- nonlocal
-- reading ENV
-- creating/removing a file
+Reviewer Name : Vishnu GR
+
+- cpython, python vm ✅
+- nonlocal ✅
+- reading ENV ✅
+- creating/removing a file 
 - file handling in python
 - pickling
 - use of closures
@@ -19,11 +21,15 @@
 - throwing error
 - error handling (except)
 
+Reviewer Name : Shalu Saji
+
 - MRO (Method Resolution Order)
 - New method (**new**)
 - Context managers
 - Dict comprehension
 - Generator implementation
+
+Reviewer Name : Sarath C.R
 
 - **pycache**
 - Python’s context managers
@@ -35,6 +41,8 @@
 - Duck Typing
 - Time methods and operations
 - Flatten list
+
+Reviewer Name : Ashik Saibabu
 
 - Definition of OOPs
 - Abstraction in python
