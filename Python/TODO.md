@@ -3,9 +3,9 @@ Reviewer Name : Vishnu GR
 - cpython, python vm ✅
 - nonlocal ✅
 - reading ENV ✅
-- creating/removing a file 
-- file handling in python
-- pickling
+- creating/removing a file ✅
+- file handling in python ✅
+- pickling ✅
 - use of closures
 - what can be unpacked
 - metaclass
