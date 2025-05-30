@@ -1,3 +1,5 @@
+Reviewer Name : Vishnu GR
+
 - load factor
 - btree
 - AVL trees
@@ -7,6 +9,8 @@
 - queue using SLL
 - BST
 - check if number contains a digit without using strings
+
+Reviewer Name : Shalu Saji
 
 - Quicksort time complexity
 - Time complexity – needs improvement
@@ -18,14 +22,16 @@
 - Linear probing implementation
 - Doubly linked list insertion operation
 
+Reviewer Name : Sarath C.R
+
 - Load Factor
 - BT vs BST vs AVL
 - Tree vs Trie
 - B-Tree
 - Find Cycle in Graph
 
+Reviewer Name : Ashik Saibabu
+
 - Reverse a singly LL
 - Collision handling
 - Insertion sort
-
-- DSA - Needs to improve in practical

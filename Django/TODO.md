@@ -1,3 +1,5 @@
+Reviewer Name : Vishnu GR
+
 - serializers
 - validators
 - generic views
@@ -15,6 +17,8 @@
 - HTTPS port
 - SSH
 
+Reviewer Name : Shalu Saji
+
 - Why is HTTP stateless
 - Web server
 - Middlewares
@@ -30,6 +34,8 @@
 - Add new column to a table (via migration)
 - Join table (via ORM relations: FK, M2M)
 - Drop column (via migration)
+
+Reviewer Name : Sarath C.R
 
 - ModelForm
 - Generic Views
@@ -48,6 +54,8 @@
 - HTTP 401 vs 400
 - Webhook & Webserver
 - IPv4 vs IPv6
+
+Reviewer Name : Ashik Saibabu
 
 - Default middleware
 - Session based auth

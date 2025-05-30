@@ -1,3 +1,5 @@
+Reviewer Name : Vishnu GR
+
 - immutability of state
 - storing and changing values in refs
 - print message when component gets unmounted
@@ -8,6 +10,8 @@
 - debouncing
 - StrictMode
 
+Reviewer Name : Shalu Saji
+
 - Synthetic events
 - How to pass data from child to parent
 - Higher-order component (HOC)
@@ -15,6 +19,8 @@
 - Core principles of Redux
 - Why is reducer a pure function
 - useRef vs forwardRef
+
+Reviewer Name : Sarath C.R
 
 - Implement counter with start and stop button
 - CSR vs SSR
@@ -25,6 +31,8 @@
 - MemoryRouter
 - BrowserRouter
 - Context API
+
+Reviewer Name : Ashik Saibabu
 
 - State vs variables
 - React workout
@@ -37,5 +45,3 @@
 - HOC
 - Pure functions
 - Controlled component
-
-- react - Needs to improve in practical

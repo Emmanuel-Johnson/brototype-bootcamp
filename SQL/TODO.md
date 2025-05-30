@@ -1,3 +1,5 @@
+Reviewer Name : Vishnu GR
+
 - view
 - triggers
 - stored procedures
@@ -5,6 +7,8 @@
 - reduce salary by 10% if salary is above average
 - unique full names
 - projects that haven’t started yet
+
+Reviewer Name : Shalu Saji
 
 - Union – needs improvement
 - TCL commands (Transaction Control Language)
@@ -15,6 +19,8 @@
 - Join table
 - Drop column
 
+Reviewer Name : Sarath C.R
+
 - Types of NoSQL
 - ACID Properties
 - 3-Schema Architecture
@@ -24,6 +30,8 @@
 - How Indexing Works
 - SQL queries with multiple joins, string functions, and aggregate functions
 - Insert statement syntax
+
+Reviewer Name : Ashik Saibabu
 
 - Find name of students having highest/second highest mark
 - 2NF
