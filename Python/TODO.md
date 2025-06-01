@@ -13,13 +13,13 @@ Reviewer Name : Vishnu GR
 - context manager ✅
 - thread ✅
 - NoneType ✅
-- hours left until tomorrow
-- lambda function without args
-- random number between 0 and 100
-- decorator to convert string returns to lowercase
-- variadic function that throws error if a kwarg of name 'err' is present
-- throwing error
-- error handling (except)
+- hours left until tomorrow ✅
+- lambda function without args ✅
+- random number between 0 and 100 ✅
+- decorator to convert string returns to lowercase ✅
+- variadic function that throws error if a kwarg of name 'err' is present ✅
+- throwing error ✅
+- error handling (except) ✅
 
 Reviewer Name : Shalu Saji
 
