@@ -12,7 +12,7 @@ Reviewer Name : Vishnu GR
 - type annotation ✅
 - context manager ✅
 - thread ✅
-- NoneType
+- NoneType ✅
 - hours left until tomorrow
 - lambda function without args
 - random number between 0 and 100
