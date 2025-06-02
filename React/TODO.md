@@ -10,7 +10,7 @@ Reviewer Name : Vishnu GR
 - debouncing
 - StrictMode
 
-Reviewer Name : Shalu Saji
+Reviewer Name : Shalu Shaji
 
 - Synthetic events
 - How to pass data from child to parent

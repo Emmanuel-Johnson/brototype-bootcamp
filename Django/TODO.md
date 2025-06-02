@@ -17,7 +17,7 @@ Reviewer Name : Vishnu GR
 - HTTPS port
 - SSH
 
-Reviewer Name : Shalu Saji
+Reviewer Name : Shalu Shaji
 
 - Why is HTTP stateless
 - Web server

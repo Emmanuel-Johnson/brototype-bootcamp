@@ -21,13 +21,13 @@ Reviewer Name : Vishnu GR
 - throwing error ✅
 - error handling (except) ✅
 
-Reviewer Name : Shalu Saji
+Reviewer Name : Shalu Shaji
 
-- MRO (Method Resolution Order)
-- New method (**new**)
-- Context managers
-- Dict comprehension
-- Generator implementation
+- MRO (Method Resolution Order) ✅
+- New method (**new**) ✅
+- Context managers ✅
+- Dict comprehension ✅
+- Generator implementation ✅
 
 Reviewer Name : Sarath C.R
 

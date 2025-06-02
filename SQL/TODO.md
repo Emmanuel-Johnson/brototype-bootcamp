@@ -8,7 +8,7 @@ Reviewer Name : Vishnu GR
 - unique full names
 - projects that haven’t started yet
 
-Reviewer Name : Shalu Saji
+Reviewer Name : Shalu Shaji
 
 - Union – needs improvement
 - TCL commands (Transaction Control Language)

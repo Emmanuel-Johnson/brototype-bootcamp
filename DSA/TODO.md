@@ -10,7 +10,7 @@ Reviewer Name : Vishnu GR
 - BST
 - check if number contains a digit without using strings
 
-Reviewer Name : Shalu Saji
+Reviewer Name : Shalu Shaji
 
 - Quicksort time complexity
 - Time complexity – needs improvement
