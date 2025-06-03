@@ -32,7 +32,7 @@ Reviewer Name : Shalu Shaji
 Reviewer Name : Sarath C.R
 
 - **pycache**
-- Python’s context managers
+- Python’s context managers ✅
 - Data Class
 - GIL (Global Interpreter Lock)
 - Tools for Debugging Python
@@ -48,7 +48,7 @@ Reviewer Name : Ashik Saibabu
 - Abstraction in python
 - Instance and private var
 - Super init
-- MRO clarity
+- MRO clarity ✅
 - Static and class methods
-- Process, threads
-- Why GIL
+- Process, threads 
+- Why GIL ✅
