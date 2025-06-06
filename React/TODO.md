@@ -45,3 +45,8 @@ Reviewer Name : Ashik Saibabu
 - HOC
 - Pure functions
 - Controlled component
+
+Reviewer Name : Maajid
+
+- react - Needs to improve in practical
+- Click one button and show alert

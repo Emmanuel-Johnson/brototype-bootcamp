@@ -35,3 +35,9 @@ Reviewer Name : Ashik Saibabu
 - Reverse a singly LL
 - Collision handling
 - Insertion sort
+
+Reviewer Name : Maajid
+
+- DSA - Needs to improve in practical
+- Binary Search Tree
+- All Type of Sorts
