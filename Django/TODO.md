@@ -63,3 +63,38 @@ Reviewer Name : Ashik Saibabu
 - Secret key
 - Proxy model use case
 - ORM workouts
+
+Intake Pendings
+
+- wsgi/asgi
+- Middlewares
+- Model.py
+- Types of views
+- Http request
+- Migration commands
+- Project creation command
+- Learn correct expansion
+- Django session management
+- signals
+- query params
+- path params
+- returning HTTP status code from view
+- browser cache
+- SECRET_KEY
+- XSS
+- cache headers
+- cookie expiry
+- unique_together
+- lazy loading
+- extra()
+- function to fetch highest priced variant based on product passed
+- Types of model inheritance
+- Abstract use and abstract baseuser
+- Advantages of django
+- ORM vs SQL
+- Default middleware
+- Session based auth
+- Model inheritances
+- F, Q Obj
+- ORM topics
+- CORS

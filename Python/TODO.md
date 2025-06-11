@@ -52,3 +52,41 @@ Reviewer Name : Ashik Saibabu
 - Static and class methods
 - Process, threads 
 - Why GIL
+
+Intake Pendings
+
+- Interpreter vs compiler
+- Magic methods
+- MRO
+- Python memory management
+- Generator
+- Copy by value and copy by reference
+- Decorators
+- Pass statement
+- Must do more practical programs
+- Constructor and destructor concept
+- List comprehension exact concept
+- Lambda function
+- closure
+- subclassing
+- don’t overwrite type names
+- remove dict keys that begin with a vowel
+- removing dict key
+- truthy falsy
+- _name_
+- GIL
+- Frozenset
+- Weakref
+- Pip
+- Super
+- Method overloading
+- GIL
+- MRO
+- Advantages of OOP
+- Abstract class in python
+- Polymorphism in python
+- __ vs private
+- Instance variables
+- With
+- Is vs ==
+- Memory allocation in python

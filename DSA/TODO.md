@@ -41,3 +41,25 @@ Reviewer Name : Maajid
 - DSA - Needs to improve in practical
 - Binary Search Tree
 - All Type of Sorts
+
+Intake Pendings
+
+- practise recursion , understand it properly
+- practise with ds week 1 topic problems  from blind 75
+- Jagged array
+- min stack
+- sort a stack using temporary stack
+- rehashing
+- collisions, how it's handled
+- merge sort implementation
+- underflow in stack
+- applications of hash table
+- types of hash functions
+- time comp of bfs dfs
+- trie
+- heapsort
+- study properly overall topics
+- priority queue
+- Heap
+- logN
+- Insertion sort

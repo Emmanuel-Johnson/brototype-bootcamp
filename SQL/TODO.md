@@ -36,3 +36,37 @@ Reviewer Name : Ashik Saibabu
 - Find name of students having highest/second highest mark
 - 2NF
 - 3NF
+
+Intake Pendings
+
+- constraints
+- trigger
+- cascading
+- Cross join
+- Having
+- stored procedure
+- view
+- subquery
+- having
+- creation of tables with primary key and foreign key
+- clustered index
+- non clustered index
+- transaction workouts
+- Durability in sql
+- Exists operator
+- Any and All operators
+- Cursor
+- Revise subquery
+- 3NF
+- schema
+- composite key
+- View
+- SQL injection
+- clustered index
+- EXTRACT: projects started in 2023
+- JOIN syntax
+- 3 schema architecture
+- BCNF
+- Natural join
+- Isolation
+- 2NF, 3NF
