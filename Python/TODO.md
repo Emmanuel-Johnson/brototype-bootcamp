@@ -34,10 +34,10 @@ Reviewer Name : Sarath C.R
 - __pycache__ ✅
 - Python’s context managers ✅
 - Data Class ✅
-- GIL (Global Interpreter Lock) 
-- Tools for Debugging Python
-- Pure vs Impure Functions
-- Stack Trace
+- GIL (Global Interpreter Lock) ✅
+- Tools for Debugging Python ✅
+- Pure vs Impure Functions ✅
+- Stack Trace ✅
 - Duck Typing
 - Time methods and operations
 - Flatten list
