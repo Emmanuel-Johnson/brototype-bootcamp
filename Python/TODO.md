@@ -38,9 +38,9 @@ Reviewer Name : Sarath C.R
 - Tools for Debugging Python ✅
 - Pure vs Impure Functions ✅
 - Stack Trace ✅
-- Duck Typing
-- Time methods and operations
-- Flatten list
+- Duck Typing ✅
+- Time methods and operations ✅
+- Flatten list ✅
 
 Reviewer Name : Ashik Saibabu
 
