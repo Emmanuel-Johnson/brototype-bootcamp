@@ -44,14 +44,14 @@ Reviewer Name : Sarath C.R
 
 Reviewer Name : Ashik Saibabu
 
-- Definition of OOPs
-- Abstraction in python
-- Instance and private var
-- Super init
+- Definition of OOPs ✅
+- Abstraction in python ✅
+- Instance and private var ✅
+- Super init ✅
 - MRO clarity ✅
-- Static and class methods
-- Process, threads 
-- Why GIL
+- Static and class methods ✅
+- Process, threads ✅
+- Why GIL ✅
 
 Intake Pendings
 
