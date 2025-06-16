@@ -1,8 +1,8 @@
 Reviewer Name : Vishnu GR
 
-- view
-- triggers
-- stored procedures
+- view ✅
+- trigger ✅
+- stored procedures ✅
 - natural key
 - reduce salary by 10% if salary is above average
 - unique full names

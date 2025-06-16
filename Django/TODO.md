@@ -1,8 +1,8 @@
 Reviewer Name : Vishnu GR
 
-- serializers
-- validators
-- generic views
+- serializers ✅
+- validators ✅
+- generic views ✅
 - reading query params and path params
 - reverse vs reverse_lazy
 - checking request method
