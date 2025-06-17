@@ -90,3 +90,5 @@ Intake Pendings
 - With
 - Is vs ==
 - Memory allocation in python
+
+Time to enter to my Prime
