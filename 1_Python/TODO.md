@@ -6,9 +6,9 @@ Reviewer Name : Vishnu GR
 - creating/removing a file ✅
 - file handling in python ✅
 - pickling ✅
-- use of closures 
-- what can be unpacked 
-- metaclass 
+- use of closures ✅
+- what can be unpacked ✅
+- metaclass ✅
 - type annotation 
 - context manager 
 - thread 
