@@ -9,10 +9,10 @@ Reviewer Name : Vishnu GR
 - use of closures ✅
 - what can be unpacked ✅
 - metaclass ✅
-- type annotation 
-- context manager 
-- thread 
-- NoneType 
+- type annotation ✅
+- context manager ✅
+- thread ✅
+- NoneType ✅
 - hours left until tomorrow 
 - lambda function without args 
 - random number between 0 and 100 
