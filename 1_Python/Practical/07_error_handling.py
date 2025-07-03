@@ -3,10 +3,15 @@
 # If you try to divide by zero, Python raises a ZeroDivisionError. 
 # Use try-except to catch it.
 
+def divide(a, b):
+    if b == 0:
+        raise ZeroDivisionError("Yo bro don't divide with zero")
+    return a / b
+
 try:
-    result = 10 / 0
-except ZeroDivisionError:
-    print("You can't divide by zero!")
+    print(divide(10, 0))
+except ZeroDivisionError as e:
+    print(e)
 
 # 2. Handling multiple possible errors
 

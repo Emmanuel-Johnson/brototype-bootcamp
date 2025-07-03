@@ -23,16 +23,16 @@ Reviewer Name : Vishnu GR
 
 Reviewer Name : Shalu Shaji
 
-- MRO (Method Resolution Order) 
-- New method (__new__) 
-- Context managers 
-- Dict comprehension 
-- Generator implementation 
+- MRO (Method Resolution Order) ✅
+- New method (__new__) ✅
+- Context managers ✅
+- Dict comprehension ✅
+- Generator implementation ✅
 
 Reviewer Name : Sarath C.R
 
 - __pycache__ 
-- Python’s context managers 
+- Python’s context managers ✅
 - Data Class 
 - GIL (Global Interpreter Lock) 
 - Tools for Debugging Python 
@@ -48,10 +48,10 @@ Reviewer Name : Ashik Saibabu
 - Abstraction in python 
 - Instance and private var 
 - Super init 
-- MRO clarity 
+- MRO clarity ✅
 - Static and class methods 
 - Process, threads 
-- Why GIL 
+- Why GIL ✅
 
 Intake Pendings
 
