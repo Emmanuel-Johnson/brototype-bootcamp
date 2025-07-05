@@ -68,3 +68,5 @@ d1 = datetime(2025, 6, 15)
 d2 = datetime(2025, 7, 1)
 delta = d2 - d1
 print(delta.days)  # 16
+
+

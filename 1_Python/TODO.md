@@ -39,18 +39,18 @@ Reviewer Name : Sarath C.R
 - Pure vs Impure Functions ✅
 - Stack Trace ✅
 - Duck Typing ✅
-- Time methods and operations 
+- Time methods and operations ✅
 - Flatten list ✅
 
 Reviewer Name : Ashik Saibabu
 
-- Definition of OOPs 
-- Abstraction in python 
-- Instance and private var 
-- Super init 
+- Definition of OOPs ✅
+- Abstraction in python ✅
+- Instance and private var ✅
+- Super init ✅
 - MRO clarity ✅
-- Static and class methods 
-- Process, threads 
+- Static and class methods ✅
+- Process, threads ✅
 - Why GIL ✅
 
 Intake Pendings
