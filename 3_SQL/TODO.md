@@ -3,10 +3,10 @@ Reviewer Name : Vishnu GR
 - view ✅
 - trigger ✅
 - stored procedures ✅
-- natural key
-- reduce salary by 10% if salary is above average
-- unique full names
-- projects that haven’t started yet
+- natural key ✅
+- reduce salary by 10% if salary is above average ✅
+- unique full names ✅
+- projects that haven’t started yet ✅
 
 Reviewer Name : Shalu Shaji
 
