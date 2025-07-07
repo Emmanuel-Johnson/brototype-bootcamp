@@ -3,19 +3,19 @@ Reviewer Name : Vishnu GR
 - serializers ✅
 - validators ✅
 - generic views ✅
-- reading query params and path params
-- reverse vs reverse_lazy
-- checking request method
-- setting status code
-- HTTP 401, 400, 201
-- channels
-- HTTP headers, how to get/set them
-- parts of JWT
-- JWT signature
-- reverse proxy
-- DNS
-- HTTPS port
-- SSH
+- reading query params and path params ✅
+- reverse vs reverse_lazy ✅
+- checking request method ✅
+- setting status code ✅
+- HTTP 401, 400, 201 ✅
+- channels ✅
+- HTTP headers, how to get/set them ✅
+- parts of JWT ✅
+- JWT signature ✅
+- reverse proxy 
+- DNS 
+- HTTPS port 
+- SSH 
 
 Reviewer Name : Shalu Shaji
 
@@ -33,7 +33,6 @@ Reviewer Name : Shalu Shaji
 - Primary key vs Unique key
 - Add new column to a table (via migration)
 - Join table (via ORM relations: FK, M2M)
-- Drop column (via migration)
 
 Reviewer Name : Sarath C.R
 
