@@ -12,10 +12,10 @@ Reviewer Name : Vishnu GR
 - HTTP headers, how to get/set them ✅
 - parts of JWT ✅
 - JWT signature ✅
-- reverse proxy 
-- DNS 
-- HTTPS port 
-- SSH 
+- reverse proxy ✅
+- DNS ✅
+- HTTPS port ✅
+- SSH ✅
 
 Reviewer Name : Shalu Shaji
 
