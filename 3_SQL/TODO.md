@@ -10,14 +10,14 @@ Reviewer Name : Vishnu GR
 
 Reviewer Name : Shalu Shaji
 
-- Union – needs improvement
-- TCL commands (Transaction Control Language)
-- Stored procedure
-- Trigger
-- CTE (Common Table Expression)
-- Add new column to a table
-- Join table
-- Drop column
+- Union – needs improvement ✅
+- TCL commands (Transaction Control Language) ✅
+- Stored procedure ✅
+- Trigger ✅
+- CTE (Common Table Expression) ✅
+- Add new column to a table ✅
+- Join table ✅
+- Drop column ✅
 
 Reviewer Name : Sarath C.R
 
