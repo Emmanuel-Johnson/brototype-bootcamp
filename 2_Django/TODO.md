@@ -19,20 +19,20 @@ Reviewer Name : Vishnu GR
 
 Reviewer Name : Shalu Shaji
 
-- Why is HTTP stateless
-- Web server
-- Middlewares
-- Context processors
-- QuerySet
-- Authorization in Django
-- Model inheritance
-- Select related and prefetch related methods
-- Signals (examples)
-- Reverse and reverse_lazy
-- Constraints
-- Primary key vs Unique key
-- Add new column to a table (via migration)
-- Join table (via ORM relations: FK, M2M)
+- Why is HTTP stateless ✅
+- Web server ✅
+- Middlewares ✅
+- Context processors ✅
+- QuerySet ✅
+- Authorization in Django ✅
+- Model inheritance ✅
+- Select related and prefetch related methods ✅
+- Signals (examples) ✅
+- Reverse and reverse_lazy ✅
+- Constraints ✅
+- Primary key vs Unique key ✅
+- Add new column to a table (via migration) ✅
+- Join table (via ORM relations: FK, M2M) ✅
 
 Reviewer Name : Sarath C.R
 
