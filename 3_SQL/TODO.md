@@ -21,15 +21,15 @@ Reviewer Name : Shalu Shaji
 
 Reviewer Name : Sarath C.R
 
-- Types of NoSQL
-- ACID Properties
-- 3-Schema Architecture
-- Scalar Functions
-- Views
-- Triggers
-- How Indexing Works
-- SQL queries with multiple joins, string functions, and aggregate functions
-- Insert statement syntax
+- Types of NoSQL ✅
+- ACID Properties ✅
+- 3-Schema Architecture ✅
+- Scalar Functions ✅
+- Views ✅
+- Triggers ✅
+- How Indexing Works ✅
+- SQL queries with multiple joins, string functions, and aggregate functions ✅
+- Insert statement syntax ✅
 
 Reviewer Name : Ashik Saibabu
 
