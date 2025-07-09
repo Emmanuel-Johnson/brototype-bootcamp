@@ -36,23 +36,23 @@ Reviewer Name : Shalu Shaji
 
 Reviewer Name : Sarath C.R
 
-- ModelForm 
-- Generic Views 
-- CSRF Token vs CORS 
+- ModelForm ✅
+- Generic Views ✅
+- CSRF Token vs CORS ✅
 - select_related and prefetch_related ✅
-- unique_together 
-- Serializers 
-- Mixins 
-- @staticmethod vs @classmethod in Django 
-- Handling circular imports in Django 
+- unique_together ✅
+- Serializers ✅
+- Mixins ✅
+- @staticmethod vs @classmethod in Django ✅
+- Handling circular imports in Django ✅
 - Django Channels ✅
-- POST URL and getting values from requests (validation) 
-- Gunicorn 
-- Rate limiting 
-- Proxy vs Reverse Proxy 
-- HTTP 401 vs 400 
-- Webhook & Webserver 
-- IPv4 vs IPv6 
+- POST URL and getting values from requests (validation) ✅
+- Gunicorn ✅
+- Rate limiting ✅
+- Proxy vs Reverse Proxy ✅
+- HTTP 401 vs 400 ✅
+- Webhook & Webserver ✅
+- IPv4 vs IPv6 ✅
 
 Reviewer Name : Ashik Saibabu
 
