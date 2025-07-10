@@ -33,9 +33,9 @@ Reviewer Name : Sarath C.R
 
 Reviewer Name : Ashik Saibabu
 
-- Find name of students having highest/second highest mark
-- 2NF
-- 3NF
+- Find name of students having highest/second highest mark ✅
+- 2NF ✅
+- 3NF ✅
 
 Intake Pendings
 
