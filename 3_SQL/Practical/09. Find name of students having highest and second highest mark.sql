@@ -39,3 +39,18 @@ WHERE marks = (
     ORDER BY marks DESC
     LIMIT 1 OFFSET 1
 );
+
+---
+
+WITH ranked_students AS (
+  SELECT
+    name,
+    marks,
+    RANK() OVER (ORDER BY marks DESC) AS rnk
+  FROM students
+)
+SELECT name, marks
+FROM ranked_students
+WHERE rnk IN (1, 2);
+
+---

@@ -56,12 +56,12 @@ Reviewer Name : Sarath C.R
 
 Reviewer Name : Ashik Saibabu
 
-- Default middleware
-- Session based auth
-- CSRF
-- Secret key
-- Proxy model use case
-- ORM workouts
+- Default middleware ✅
+- Session based auth ✅
+- CSRF ✅
+- Secret key ✅
+- Proxy model use case ✅
+- ORM workouts ✅
 
 Intake Pendings
 
