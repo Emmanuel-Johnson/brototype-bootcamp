@@ -36,7 +36,7 @@ class BST:
 
         return _contains(self.root, value)
 
-    # Delete a node
+    # Delete a node ( in-order successor logic )
     def delete(self, value):
         def _min_value_node(node):
             current = node
@@ -104,34 +104,6 @@ class BST:
         _postorder(self.root)
         return result
 
-    # Find closest value to a target
-    def find_closest(self, target):
-        closest = float('inf')
-
-        def _search(node):
-            nonlocal closest
-            if not node:
-                return
-            if abs(target - closest) > abs(target - node.value):
-                closest = node.value
-            if target < node.value:
-                _search(node.left)
-            elif target > node.value:
-                _search(node.right)
-
-        _search(self.root)
-        return closest
-
-    # Validate if a tree is a valid BST
-    def is_valid_bst(self):
-        def _validate(node, low, high):
-            if not node:
-                return True
-            if not (low < node.value < high):
-                return False
-            return _validate(node.left, low, node.value) and _validate(node.right, node.value, high)
-
-        return _validate(self.root, float('-inf'), float('inf'))
 
 bst = BST()
 values = [10, 5, 15, 2, 7, 12, 20]

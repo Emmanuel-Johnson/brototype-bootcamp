@@ -12,22 +12,22 @@ Reviewer Name : Vishnu GR
 
 Reviewer Name : Shalu Shaji
 
-- Quicksort time complexity
-- Time complexity – needs improvement
-- Why mergesort is best for linked list
-- Collision handling methods
-- Rehashing
-- Minimum spanning tree
-- AVL tree
-- Linear probing implementation
-- Doubly linked list insertion operation
+- Quicksort time complexity ✅
+- Time complexity – needs improvement 
+- Why mergesort is best for linked list 
+- Collision handling methods 
+- Rehashing 
+- Minimum spanning tree 
+- AVL tree ✅
+- Linear probing implementation 
+- Doubly linked list insertion operation 
 
 Reviewer Name : Sarath C.R
 
-- Load Factor
+- Load Factor ✅
 - BT vs BST vs AVL
 - Tree vs Trie
-- B-Tree
+- B-Tree ✅
 - Find Cycle in Graph
 
 Reviewer Name : Ashik Saibabu
