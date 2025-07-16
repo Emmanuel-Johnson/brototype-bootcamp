@@ -97,3 +97,42 @@ Intake Pendings
 - F, Q Obj
 - ORM topics
 - CORS
+
+My Pendings 
+
+Reviewer Name : Vishnu sivan ( Week 4 )
+
+MVT architecture 
+Context
+For loop
+Views 
+
+Reviewer Name : Vishnu GR ( Week 6 )
+
+- view function args
+- query params
+- path params
+- HTTP 200, 403, 500
+- changing status code of response in a view
+- structure of HTTP request and response
+- HTTP OPTIONS, preflight request, CORS
+- signals: poor understanding
+- WSGI purpose*
+- messages*
+- mixins*
+- context processor
+- reverse()
+- localStorage
+- understand different types of browser storages
+- user-agent
+
+Reviewer Name : Hashif ( Week 6 )
+
+Migration commands and it's working
+Django session
+
+Reviewer Name : Vishnu Sivan ( Week 7 )
+
+Raw vs cursor 
+QuerySet
+Values_list()

@@ -90,3 +90,33 @@ Intake Pendings
 - With
 - Is vs ==
 - Memory allocation in python
+
+My Pendings 
+
+Reviewer Name : Hashif ( Week 3 )
+
+list vs tuple
+lambda function exact concept
+list comprehension concept
+decorators concept
+do more practical
+under the concept well and improve explanation well
+Constructor vs destructor
+
+Reviewer Name : Vishnu GR  ( Week 6 )
+
+- NoneType
+- is float mutable?
+- PVM
+- cpython: poor understanding
+- environment variables
+- call by sharing
+- pickling 
+- closure
+- _name_
+- unpacking
+- 1 & 2 vs 1 and 2
+- bitwise operators
+- decorator to prepend string
+- remove key corresponding to the highest value in dict
+- removing an object key

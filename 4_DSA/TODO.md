@@ -63,3 +63,48 @@ Intake Pendings
 - Heap
 - logN
 - Insertion sort
+
+My pendings
+
+Reviewer Name : Midun MP ( Week 14 )
+ 
+Binary search , theory and workouts 
+Recursion and space Complexity 
+Recursion workouts
+Applications of LL
+
+Reviewer Name : Emil IS ( Week 14 )
+
+linear vs non-linear data structures, 
+complexity - understand better, 
+jagged array, 
+time complexity of recursion, 
+remove duplicates from linked list - not known, 
+print Fibonacci series using recursion - not known, 
+Focus more on logical questions.
+
+Reviewer Name : Muhammed Hashif ( Week 15 )
+
+insertion sort
+merge sort
+collision and its handling
+
+Reviewer Name : Jeswin George ( Week 16 )
+
+Segment tree
+Red black tree
+AVL tree
+self balancing binary tree
+heap & types of heap
+Trie & types
+Dijikstra's algorithm
+spanning tree
+Backtracking
+Graph
+Graph traversal methods
+Haven't covered practicals
+
+Reviewer Name : Hashif ( Week 16 )
+
+Heapify exact concept 
+Do more practical using heap

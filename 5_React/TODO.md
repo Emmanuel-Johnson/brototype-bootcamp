@@ -99,3 +99,27 @@ Intake Pendings
 - HOC
 - Redux middleware
 - Promise (clarity)
+
+My Pendings
+
+Reviewer Name : Rahul Ranjan  ( Week 19 )
+
+React has unidirectional or bidirectional data flow
+What is unidirectional ?
+Explain the characteristics Fragment?
+Explain react life cycle in hook?
+
+Reviewer Name : Mejo  ( Week 19 )
+
+Gain more practical knowledge
+
+Reviewer Name : Hashif  ( Week 20 )
+
+Do pratical task using useReducer and all other hooks that you have learned
+
+Reviewer Name : Hashif  ( Week 20 )
+
+Action Creator
+useSelector and useDispatch
+createAsyncThunk function
+combineReducers 

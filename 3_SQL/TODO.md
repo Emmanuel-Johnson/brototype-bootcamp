@@ -70,3 +70,30 @@ Intake Pendings
 - Natural join
 - Isolation
 - 2NF, 3NF
+
+My Pendings 
+
+Reviewer Name : Abhijith M ( Week 5 )
+
+Normal forms
+Difference between foreign key and joins
+Candidate key
+
+Reviewer Name : Vishnu GR ( Week 6 )
+
+- view
+- stored procedure
+- clustered index
+- SQL injection
+- composite key
+- WITH
+- increase salary where salary is less than average
+- number of employees in Engineering department
+
+Reviewer Name : Hashif ( Week 6 )
+
+Left join
+Sql view
+2NF , 3NF
+DDL, DML DCL
+Practical need to improved
