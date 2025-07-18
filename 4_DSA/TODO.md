@@ -32,7 +32,7 @@ Reviewer Name : Sarath C.R
 
 Reviewer Name : Ashik Saibabu
 
-- Reverse a singly LL 
+- Reverse a singly LL ✅
 - Collision handling ✅
 - Insertion sort ✅
 

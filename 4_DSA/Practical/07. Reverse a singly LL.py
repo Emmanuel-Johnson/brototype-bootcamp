@@ -77,7 +77,7 @@ class SLL:
                 current.next = newnode
                 return
             current = current.next
-        print(f"{data} not found in the linked list")
+        print(f"{after} not found in the linked list")
     
     def print_reverse(self):
         def _print_reverse(node):
@@ -98,10 +98,46 @@ class SLL:
             print(f"{stack.pop()}", end = " <-- ")
         print("None")
         
+    def remove_duplicates(self):
+        if self.head is None:
+            print("Linked list is empty")
+            return
+        seen = set()
+        current = self.head
+        seen.add(current.data)
+        while current.next:
+            if current.next.data in seen:
+                current.next = current.next.next
+            else:
+                current = current.next
+                seen.add(current.data)
+    
+    def remove_duplicates_sorted(self):
+        current = self.head
+        while current and current.next:
+            if current.data == current.next.data:
+                current.next = current.next.next
+            else:
+                current = current.next
+    
+    def reverse_a_sll(self):
+        if self.head is None:
+            print("Linked List is empty")
+            return
+        current = self.head
+        prev = None
+        while current:
+            next_node = current.next
+            current.next = prev
+            prev = current
+            current = next_node
+        self.head = prev
         
         
 sll = SLL()
 
-arr = [1, 2, 3, 4, 5, 6, 7, 7, 6, 5, 3, 3, 3, 2, 1]
+arr = [1, 2, 3, 4, 5]
 sll.array_to_sll(arr)
+sll.display()
+sll.reverse_a_sll()
 sll.display()
