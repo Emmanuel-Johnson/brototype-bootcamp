@@ -20,7 +20,7 @@ Reviewer Name : Shalu Shaji
 - Minimum spanning tree ✅
 - AVL tree ✅
 - Linear probing implementation 
-- Doubly linked list insertion operation 
+- Doubly linked list insertion operation ✅
 
 Reviewer Name : Sarath C.R
 
@@ -38,7 +38,7 @@ Reviewer Name : Ashik Saibabu
 
 Reviewer Name : Maajid
 
-- DSA - Needs to improve in practical
+- DSA - Needs to improve in practical ✅
 - Binary Search Tree ✅
 - All Type of Sorts ✅
 
