@@ -123,3 +123,31 @@ Action Creator
 useSelector and useDispatch
 createAsyncThunk function
 combineReducers 
+
+
+Other Pendings
+
+Reviewer Name : Hashif
+
+CSR vs SSR
+Detructuring
+Dynamic Rendering
+Action Creator
+combined reducers
+useref ,usememo,reducer
+callback
+use callback hook
+action vs action creator
+Redux middle wears
+(workout) - using useeffect api data fetching.
+
+
+Reviewer Name : Hashif
+
+Theory:-
+How do you update state in a class component?
+What are action creators?
+How can we handle async actions in Redux?
+What is the use of the Immer library?
+Practical:-
+Create a component to fetch data from an API –  Not done
