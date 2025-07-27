@@ -296,6 +296,22 @@ def DFS_2(node, visited, graph):
         for i in graph[node]:
             DFS_2(i[0], visited, graph)
 
+# Python Program To Implement DFS Using Iterative Approach | Using Stack | Data Structure
+
+def DFS_iterative(node, visited, graph):
+    if node not in graph:
+        print("Node is not present in the graph")
+        return
+    stack = []
+    stack.append(node)
+    while stack:
+        current = stack.pop()
+        if current not in visited:
+            print(current)
+            visited.add(current)
+            for i in graph[current]:
+                stack.append(i)
+
 def print_graph():
     for n in graph:
         print(n, "-->" , graph[n])
@@ -318,6 +334,7 @@ add_edge_1("C", "D")
 add_edge_1("E", "D")
 print_graph()
 
+DFS_iterative("A", visited, graph)
 
 
 
