@@ -316,25 +316,69 @@ def print_graph():
     for n in graph:
         print(n, "-->" , graph[n])
 
-
 graph = {}
 visited = set()
+
 add_node("A")
 add_node("B")
 add_node("C")
 add_node("D")
 add_node("E")
+add_node("F")
+add_node("G")
 
-add_edge_1("A", "B")
-add_edge_1("B", "E")
-add_edge_1("A", "C")
-add_edge_1("A", "D")
-add_edge_1("B", "D")
-add_edge_1("C", "D")
-add_edge_1("E", "D")
+add_edge_2("A", "B")
+add_edge_2("A", "C")
+add_edge_2("A", "D")
+add_edge_2("D", "E")
+add_edge_2("B", "E")
+add_edge_2("C", "D")
+add_edge_2("C", "F")
+add_edge_2("E", "F")
+add_edge_2("E", "G")
+
 print_graph()
+DFS_1("D", visited, graph)
 
-DFS_iterative("A", visited, graph)
+# Python Program To Check Graph is Connected or Disconnected Using DFS | Data Structure
+
+def connected_or_disconnected(visited, graph):
+    for i in list(graph):
+        if i not in visited:
+            print("Given Graph is a Disconnected Graph")
+            break
+    else:
+        print("Graph is a Connected Graph")
+
+# How To Traverse Disconnected Graph Using DFS | Python Program | Data Structure
+
+def traverse_disconnected(visited, graph):
+    for i in list(graph):
+        if i not in visited:
+            print("Next connected Component")
+            DFS_1(i, visited, graph)
+
+
+# How To Check Whether Given Graph Is Weakly Connected or Strongly Connected Using DFS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
