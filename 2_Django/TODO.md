@@ -16,23 +16,39 @@ Reviewer Name : Vishnu GR
 - DNS ✅
 - HTTPS port ✅
 - SSH ✅
+- view function args
+- query params
+- path params
+- HTTP 200, 403, 500
+- changing status code of response in a view
+- structure of HTTP request and response
+- HTTP OPTIONS, preflight request, CORS
+- signals: poor understanding
+- WSGI purpose*
+- messages*
+- mixins*
+- context processor
+- reverse()
+- localStorage
+- understand different types of browser storages
+- user-agent
 
-Reviewer Name : Shalu Shaji
 
-- Why is HTTP stateless ✅
-- Web server ✅
-- Middlewares ✅
-- Context processors ✅
-- QuerySet ✅
-- Authorization in Django ✅
-- Model inheritance ✅
-- Select related and prefetch related methods ✅
-- Signals (examples) ✅
-- Reverse and reverse_lazy ✅
-- Constraints ✅
-- Primary key vs Unique key ✅
-- Add new column to a table (via migration) ✅
-- Join table (via ORM relations: FK, M2M) ✅
+
+Reviewer Name : Ashik Saibabu
+
+- Default middleware ✅
+- Session based auth ✅
+- CSRF ✅
+- Secret key ✅
+- Proxy model use case ✅
+- ORM workouts ✅
+ORM
+Session based auth
+JWT verification
+HTTP status code purposes
+
+
 
 Reviewer Name : Sarath C.R
 
@@ -53,15 +69,85 @@ Reviewer Name : Sarath C.R
 - HTTP 401 vs 400 ✅
 - Webhook & Webserver ✅
 - IPv4 vs IPv6 ✅
+1. Pros and Cons of Django
+2. Request-Response Cycle
+3. Advantages of ORM Over Raw SQL
+4. QuerySets()
+5. unique_together
+6. related_name
+7. Celery
+8. Contents of Request
+9. PUT vs PATCH
+10. Rate Limiting
+11. Content Negotiation
+12. HTTP 400
 
-Reviewer Name : Ashik Saibabu
 
-- Default middleware ✅
-- Session based auth ✅
-- CSRF ✅
-- Secret key ✅
-- Proxy model use case ✅
-- ORM workouts ✅
+
+Reviewer Name : Hashif
+
+Migration commands and it's working
+Django session
+URL Routing exxact concept
+QuerySets
+use of prefetch related and select related
+abstract user and abstractbaseuser exact concept
+types of model inheritance
+raw method vs cursor method
+1.media root vs static root
+2.orm queries 
+3.Abstractuser vs abstractbaseuser
+4.Prefetch related and select related
+5.built in signals
+6.types of model inheritance
+7.cursor method vs raw method 
+8.meta class atributes
+ORM QUERIES:- MODELS GIVEN( authors, books and publishers) 
+find books of john or sam
+find total number of pages of sam
+find total numbers books with authers name
+What is a slug field in Django?
+How does Django handle static files?
+What is the difference between ForeignKey and OneToOneField?
+What are signals in Django?
+What are the types of model inheritance?
+orm concept
+abstractuser vs abstractbaseuser
+signals in django
+types of model inheritance
+Prefech related and select related
+What is a slug field in Django?
+How does Django handle static files?
+What is the difference between ForeignKey and OneToOneField?
+What are signals in Django?
+What are the types of model inheritance?
+
+
+
+Reviewer Name : Shalu Shaji
+
+- Why is HTTP stateless ✅
+- Web server ✅
+- Middlewares ✅
+- Context processors ✅
+- QuerySet ✅
+- Authorization in Django ✅
+- Model inheritance ✅
+- Select related and prefetch related methods ✅
+- Signals (examples) ✅
+- Reverse and reverse_lazy ✅
+- Constraints ✅
+- Primary key vs Unique key ✅
+- Add new column to a table (via migration) ✅
+- Join table (via ORM relations: FK, M2M) ✅
+context processor
+why is http stateless
+reverse and reverse lazy
+prefetch related method - needs improvement
+signals are sync or async
+raw vs cursor
+
+
 
 Intake Pendings
 
@@ -97,69 +183,3 @@ Intake Pendings
 - F, Q Obj
 - ORM topics
 - CORS
-
-My Pendings 
-
-Reviewer Name : Vishnu sivan ( Week 4 )
-
-MVT architecture 
-Context
-For loop
-Views 
-
-Reviewer Name : Vishnu GR ( Week 6 )
-
-- view function args
-- query params
-- path params
-- HTTP 200, 403, 500
-- changing status code of response in a view
-- structure of HTTP request and response
-- HTTP OPTIONS, preflight request, CORS
-- signals: poor understanding
-- WSGI purpose*
-- messages*
-- mixins*
-- context processor
-- reverse()
-- localStorage
-- understand different types of browser storages
-- user-agent
-
-Reviewer Name : Hashif ( Week 6 )
-
-Migration commands and it's working
-Django session
-
-Reviewer Name : Vishnu Sivan ( Week 7 )
-
-Raw vs cursor 
-QuerySet
-Values_list()
-
-
-Other Pendings
-
-Reviewer Name : Hashif
-
-1.media root vs static root
-2.orm queries 
-3.Abstractuser vs abstractbaseuser
-4.Prefetch related and select related
-5.built in signals
-6.types of model inheritance
-7.cursor method vs raw method 
-8.meta class atributes
-ORM QUERIES:- MODELS GIVEN( authors, books and publishers) 
-find books of john or sam
-find total number of pages of sam
-find total numbers books with authers name
-
-
-Reviewer Name : Hashif
-
-What is a slug field in Django?
-How does Django handle static files?
-What is the difference between ForeignKey and OneToOneField?
-What are signals in Django?
-What are the types of model inheritance?

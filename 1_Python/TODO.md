@@ -20,14 +20,42 @@ Reviewer Name : Vishnu GR
 - variadic function that throws error if a kwarg of name 'err' is present ✅
 - throwing error ✅
 - error handling (except) ✅
+- NoneType
+- is float mutable?
+- PVM
+- cpython: poor understanding
+- environment variables
+- call by sharing
+- pickling 
+- closure
+- _name_
+- unpacking
+- 1 & 2 vs 1 and 2
+- bitwise operators
+- decorator to prepend string
+- remove key corresponding to the highest value in dict
+- removing an object key
 
-Reviewer Name : Shalu Shaji
 
-- MRO (Method Resolution Order) ✅
-- New method (__new__) ✅
-- Context managers ✅
-- Dict comprehension ✅
-- Generator implementation ✅
+
+Reviewer Name : Ashik Saibabu
+
+- Definition of OOPs ✅
+- Abstraction in python ✅
+- Instance and private var ✅
+- Super init ✅
+- MRO clarity ✅
+- Static and class methods ✅
+- Process, threads ✅
+- Why GIL ✅
+Logical problem solving needs improvement 
+Dict workout
+String workout
+OOPs
+GIL
+Multithreading
+
+
 
 Reviewer Name : Sarath C.R
 
@@ -41,17 +69,89 @@ Reviewer Name : Sarath C.R
 - Duck Typing ✅
 - Time methods and operations ✅
 - Flatten list ✅
+1. Merge Two Sorted Lists
+2. Custom Iterator Implementation
+3. Features of Python
+4. CPython
+5. PEP
+6. Python's Garbage Collection Mechanism
+7. Unary Operators
+8. Super Init
+9. For-Else Pattern
+10. Python’s Context Managers
 
-Reviewer Name : Ashik Saibabu
 
-- Definition of OOPs ✅
-- Abstraction in python ✅
-- Instance and private var ✅
-- Super init ✅
-- MRO clarity ✅
-- Static and class methods ✅
-- Process, threads ✅
-- Why GIL ✅
+
+Reviewer Name : Hashif
+
+list vs tuple
+lambda function exact concept
+list comprehension concept
+decorators concept
+do more practical
+under the concept well and improve explanation well
+Constructor vs destructor
+list vs tuple
+oops
+class method vs static method
+use of else in exception
+how many arguments can be passed to lambda function
+GIL 
+generators
+.iterators
+use of with stmt 
+match
+deep copy and shallow copy  
+Create a decorator with args
+create a generator to count upto n
+pattern
+1
+23
+456
+78910
+Theory:-
+What is the use of the with statement?
+What are context managers?
+What is the use of @property?
+Practical:-
+Create a decorator that can access arguments –  Done
+Generator for infinite Fibonacci series –  Done
+Create a Floyd’s triangle pattern –  Partially done
+Set chars
+deepcopy() and copy() exact concept
+decorator exact concept
+difference between del and remove()
+difference between staticmethod and classmethod
+Decorators
+mandatory module in package
+use of else in exception
+class method vs static method
+generator vs iterator
+Theory
+What is the use of the with statement?
+What are context managers?
+What is the use of @property?
+Practical
+Create a decorator that can access arguments –  Done
+Generator for infinite Fibonacci series –  Done
+Create a Floyd’s triangle pattern –  Partially done
+
+
+
+Reviewer Name : Shalu Shaji
+
+- MRO (Method Resolution Order) ✅
+- New method (__new__) ✅
+- Context managers ✅
+- Dict comprehension ✅
+- Generator implementation ✅
+MRO
+context managers
+types of arguments - needs improvement
+Write a decorator for handling zero division error
+create a new list with even negative numbers using list comprehension.
+
+
 
 Intake Pendings
 
@@ -90,69 +190,3 @@ Intake Pendings
 - With
 - Is vs ==
 - Memory allocation in python
-
-My Pendings 
-
-Reviewer Name : Hashif ( Week 3 )
-
-list vs tuple
-lambda function exact concept
-list comprehension concept
-decorators concept
-do more practical
-under the concept well and improve explanation well
-Constructor vs destructor
-
-Reviewer Name : Vishnu GR  ( Week 6 )
-
-- NoneType
-- is float mutable?
-- PVM
-- cpython: poor understanding
-- environment variables
-- call by sharing
-- pickling 
-- closure
-- _name_
-- unpacking
-- 1 & 2 vs 1 and 2
-- bitwise operators
-- decorator to prepend string
-- remove key corresponding to the highest value in dict
-- removing an object key
-
-
-Other Pendings
-
-Reviewer Name : Hashif
-
-list vs tuple
-oops
-class method vs static method
-use of else in exception
-how many arguments can be passed to lambda function
-GIL 
-generators
-.iterators
-use of with stmt 
-match
-deep copy and shallow copy  
-Create a decorator with args
-create a generator to count upto n
-pattern
-1
-23
-456
-78910
-
-
-Reviewer Name : Hashif
-
-Theory:-
-What is the use of the with statement?
-What are context managers?
-What is the use of @property?
-Practical:-
-Create a decorator that can access arguments –  Done
-Generator for infinite Fibonacci series –  Done
-Create a Floyd’s triangle pattern –  Partially done

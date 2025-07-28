@@ -10,27 +10,7 @@ Reviewer Name : Vishnu GR
 - debouncing
 - StrictMode
 
-Reviewer Name : Shalu Shaji
 
-- Synthetic events
-- How to pass data from child to parent
-- Higher-order component (HOC)
-- What is the need of package-lock.json file
-- Core principles of Redux
-- Why is reducer a pure function
-- useRef vs forwardRef
-
-Reviewer Name : Sarath C.R
-
-- Implement counter with start and stop button
-- CSR vs SSR
-- Dynamic Rendering
-- Error Boundary
-- Event Pooling
-- Synthetic Events
-- MemoryRouter
-- BrowserRouter
-- Context API
 
 Reviewer Name : Ashik Saibabu
 
@@ -45,11 +25,106 @@ Reviewer Name : Ashik Saibabu
 - HOC
 - Pure functions
 - Controlled component
+Cons of SPA
+State vs variables
+Life cycle methods
+Routers and react-router-dom
+Core principles of redux
+
+
+
+Reviewer Name : Sarath C.R
+
+- Implement counter with start and stop button
+- CSR vs SSR
+- Dynamic Rendering
+- Error Boundary
+- Event Pooling
+- Synthetic Events
+- MemoryRouter
+- BrowserRouter
+- Context API
+1. React Fiber
+2. Error Boundary
+3. Event Pooling
+4. Synthetic Events
+5. MemoryRouter
+6. forwardRef
+7. Suspense
+8. Sample To-Do App
+
+
+
+Reviewer Name : Hashif 
+
+Do pratical task using useReducer and all other hooks that you have learned
+Action Creator
+useSelector and useDispatch
+createAsyncThunk function
+combineReducers 
+CSR vs SSR
+Detructuring
+Dynamic Rendering
+Action Creator
+combined reducers
+useref ,usememo,reducer
+callback
+use callback hook
+action vs action creator
+Redux middle wears
+(workout) - using useeffect api data fetching.
+Theory:-
+How do you update state in a class component?
+What are action creators?
+How can we handle async actions in Redux?
+What is the use of the Immer library?
+Practical:-
+Create a component to fetch data from an API –  Not done
+CSR vs SSR
+Destructuring
+Dynamic rendering exact concept
+useRef
+why ssr fatser for initial loading
+destructuring
+dynamic rendering
+useEffect exact conept
+React.memo() concept
+use Reducer
+Action vs Action creator
+redux toolkit
+Pure Component
+Theory
+How do you update state in a class component?
+What are action creators?
+How can we handle async actions in Redux?
+What is the use of the Immer library?
+Practical
+Create a component to fetch data from an API –  Not done
+
+
+
+Reviewer Name : Shalu Shaji
+
+- Synthetic events
+- How to pass data from child to parent
+- Higher-order component (HOC)
+- What is the need of package-lock.json file
+- Core principles of Redux
+- Why is reducer a pure function
+- useRef vs forwardRef
+controlled vs uncontrolled component
+need of package-lock.json file - needs improvement
+redux saga vs redux thunk
+decorator logic
+
+
 
 Reviewer Name : Maajid
 
 - react - Needs to improve in practical
 - Click one button and show alert
+
+
 
 Intake Pendings
 
@@ -99,55 +174,3 @@ Intake Pendings
 - HOC
 - Redux middleware
 - Promise (clarity)
-
-My Pendings
-
-Reviewer Name : Rahul Ranjan  ( Week 19 )
-
-React has unidirectional or bidirectional data flow
-What is unidirectional ?
-Explain the characteristics Fragment?
-Explain react life cycle in hook?
-
-Reviewer Name : Mejo  ( Week 19 )
-
-Gain more practical knowledge
-
-Reviewer Name : Hashif  ( Week 20 )
-
-Do pratical task using useReducer and all other hooks that you have learned
-
-Reviewer Name : Hashif  ( Week 20 )
-
-Action Creator
-useSelector and useDispatch
-createAsyncThunk function
-combineReducers 
-
-
-Other Pendings
-
-Reviewer Name : Hashif
-
-CSR vs SSR
-Detructuring
-Dynamic Rendering
-Action Creator
-combined reducers
-useref ,usememo,reducer
-callback
-use callback hook
-action vs action creator
-Redux middle wears
-(workout) - using useeffect api data fetching.
-
-
-Reviewer Name : Hashif
-
-Theory:-
-How do you update state in a class component?
-What are action creators?
-How can we handle async actions in Redux?
-What is the use of the Immer library?
-Practical:-
-Create a component to fetch data from an API –  Not done
