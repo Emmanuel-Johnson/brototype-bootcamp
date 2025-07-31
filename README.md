@@ -1,17 +1,12 @@
-Plan A
+Plan A 
 
-Going to Cover all topics of Hashif in 15 days then going to review 
+Going to cover all the Topics of Hashif ASAP
+Use Pomodoro (50/10 rule) → 50 min focus, 10 min break.
+Every night, revise what you learned.
 
-Day 1 Python
-Day 2 Django
-Day 3 SQL
-Day 4 DSA
-Day 5 React
+DSA - Morning (5am - 8am)
+Python, Django, SQl - (8am - 6pm) 
+React - Night (6pm - 9pm)
 
-Here we go again ( 5 Days )
-
-Here also we go again ( 5 Days )
-
-Plan B
-
-If i fail scale to Shalu then Ashik then Sarath then Vishnu
+Going to study like in 12th Fail.
+Going to Complete Full Domain in August
