@@ -10,14 +10,14 @@ Constructor vs destructor ✅
 oops ✅
 use of else in exception ✅
 how many arguments can be passed to lambda function ✅
-GIL
-match
-deep copy and shallow copy
-deepcopy() and copy() exact concept
+GIL ✅
+match ✅
+deep copy and shallow copy ✅
+deepcopy() and copy() exact concept ✅
 Create a decorator with args
 create a generator to count upto n
-Set chars
-difference between del and remove()
+Set chars ✅
+difference between del and remove() ✅
 difference between staticmethod and classmethod
 mandatory module in package
 generator vs iterator
