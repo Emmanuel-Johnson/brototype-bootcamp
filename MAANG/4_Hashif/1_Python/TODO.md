@@ -14,18 +14,18 @@ GIL ✅
 match ✅
 deep copy and shallow copy ✅
 deepcopy() and copy() exact concept ✅
-Create a decorator with args
-create a generator to count upto n
+Create a decorator with args ✅
+create a generator to count upto n ✅
 Set chars ✅
 difference between del and remove() ✅
-difference between staticmethod and classmethod
-mandatory module in package
-generator vs iterator
+difference between staticmethod and classmethod ✅
+mandatory module in package ✅
+generator vs iterator ✅
 Theory
-What is the use of the with statement?
-What are context managers?
-What is the use of @property?
+What is the use of the with statement? ✅
+What are context managers? ✅
+What is the use of @property? ✅
 Practical
-Create a decorator that can access arguments
-Generator for infinite Fibonacci series
-Create a Floyd’s triangle pattern
+Create a decorator that can access arguments ✅
+Generator for infinite Fibonacci series ✅
+Create a Floyd’s triangle pattern ✅
