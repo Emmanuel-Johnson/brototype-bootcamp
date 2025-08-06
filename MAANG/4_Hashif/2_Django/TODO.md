@@ -4,7 +4,7 @@ Migration commands and it's working ✅
 Django session ✅
 URL Routing exact concept ✅
 QuerySets ✅
-1.media root vs static root
+1.media root vs static root ✅
 2.orm queries 
 3.Abstractuser vs abstractbaseuser
 4.Prefetch related and select related
