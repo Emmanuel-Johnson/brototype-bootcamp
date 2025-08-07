@@ -1,8 +1,8 @@
-Reviewer Name : Hashif
+Reviewer Name : Hashif 
 
-list vs tuple ✅
-lambda function exact concept ✅
-list comprehension concept ✅
+list vs tuple ✅ -
+lambda function exact concept ✅ -
+list comprehension concept ✅ -
 decorators concept ✅
 do more practical ✅
 understand the concept well and improve explanation well ✅

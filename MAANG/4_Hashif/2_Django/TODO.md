@@ -1,8 +1,8 @@
-Reviewer Name : Hashif
+Reviewer Name : Hashif 
 
-Migration commands and it's working ✅
-Django session ✅
-URL Routing exact concept ✅
+Migration commands and it's working ✅ -
+Django session ✅ -
+URL Routing exact concept ✅ -
 QuerySets ✅
 1.media root vs static root ✅
 2.orm queries 
