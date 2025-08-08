@@ -3,9 +3,9 @@ Reviewer Name : Hashif
 Migration commands and it's working ✅ -
 Django session ✅ -
 URL Routing exact concept ✅ -
-QuerySets ✅
-1.media root vs static root ✅
-2.orm queries 
+QuerySets ✅ -
+1.media root vs static root ✅ -
+2.orm queries ✅ -
 3.Abstractuser vs abstractbaseuser
 4.Prefetch related and select related
 5.built in signals

@@ -3,12 +3,10 @@ Reviewer Name : Hashif
 list vs tuple ✅ -
 lambda function exact concept ✅ -
 list comprehension concept ✅ -
-decorators concept ✅
-do more practical ✅
-understand the concept well and improve explanation well ✅
-Constructor vs destructor ✅
+decorators concept ✅ -
+Constructor vs destructor ✅ -
+use of else in exception ✅ -
 oops ✅
-use of else in exception ✅
 how many arguments can be passed to lambda function ✅
 GIL ✅
 match ✅
