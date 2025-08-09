@@ -3,10 +3,10 @@ Reviewer Name : Hashif
 insertion sort ✅
 merge sort ✅
 collision and its handling ✅
-Heapify exact concept
-Do more practical using heap
+Heapify exact concept ✅
 how time and space complexity calculated
 asynotations-worst case - which notation?
+Do more practical using heap
 diff types of linked list and their differences.
 explian binary search and merge sort and quick sort with complexity
 best case time complexity of quicksort.

@@ -30,3 +30,5 @@
 🟩 Python &emsp;&emsp; 🟩 Django &emsp;&emsp; 🟩 SQL &emsp;&emsp; 🟩 DSA &emsp;&emsp; 🟩 React &emsp;&emsp; ✅ Day 1
 
 🟩 Python &emsp;&emsp; 🟩 Django &emsp;&emsp; 🟩 SQL &emsp;&emsp; 🟥 DSA &emsp;&emsp; 🟥 React &emsp;&emsp; ❌ Day 2
+
+🟩 Python &emsp;&emsp; 🟩 Django &emsp;&emsp; 🟩 SQL &emsp;&emsp; 🟩 DSA &emsp;&emsp; 🟩 React &emsp;&emsp; ✅ Day 3
